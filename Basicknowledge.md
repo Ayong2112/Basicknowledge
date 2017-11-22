@@ -1,4 +1,4 @@
-#basicknowledge
+
 ## Javascript
 | Article | Article |
 | --------- | --------- |
